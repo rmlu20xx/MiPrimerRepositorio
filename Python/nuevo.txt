@@ -1,0 +1,2 @@
+Perimetro del circulo es62.83
+Area del circulo es314.16
